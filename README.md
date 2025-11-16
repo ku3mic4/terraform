@@ -1,1 +1,1 @@
-# terrafotm
+# terraform
