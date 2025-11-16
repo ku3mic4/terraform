@@ -1,3 +1,4 @@
+#my
 resource "local_file" "hosts" {    
   filename = "hosts"    
   content = templatefile("${path.module}/hosts.tftpl", {    
