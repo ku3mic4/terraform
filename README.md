@@ -11,6 +11,13 @@
 
 <img width="519" height="469" alt="image" src="https://github.com/user-attachments/assets/76d51b4b-df53-447a-9d1a-b05acdabb4f4" />
 
+4 Запускаем выполнение кода проверяем работу
+ВМ создалась
+<img width="1775" height="60" alt="image" src="https://github.com/user-attachments/assets/1b4031b8-fdaa-4bf4-b9ea-f438fe62b776" />
 
+В выводе получаем, те же IP что в консоли яндекса
+<img width="671" height="265" alt="image" src="https://github.com/user-attachments/assets/ed47d3fb-8327-430c-b3ba-d705c41fde9f" />
+
+5 Пробуем подключиться под пользователем, которого передали ранее
 
 
