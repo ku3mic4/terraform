@@ -18,7 +18,8 @@
 В выводе получаем, те же IP что в консоли яндекса
 <img width="671" height="265" alt="image" src="https://github.com/user-attachments/assets/ed47d3fb-8327-430c-b3ba-d705c41fde9f" />
 
-5 Пробуем подключиться под пользователем, которого передали ранее
+5 Пробуем подключиться под пользователем, которого передали ранее.
+
 Пользователя, его пароль и ключ ssh передавали через файл cloud-init metadata.yaml. В репозитарий не выкладывается.
 
 <img width="746" height="514" alt="image" src="https://github.com/user-attachments/assets/3dad8c32-8489-4de8-ab5d-94e66bd4892e" />
